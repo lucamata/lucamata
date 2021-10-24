@@ -4,7 +4,7 @@ I'm a postdoctoral researcher in the department MIFT at University of Messina.
 
 :computer: http://mat521.unime.it/amata
 
-Main interest
+Main interests
 ==========
 - ```Hilbert functions and Betti numbers of quotients of exterior algebras```<BR>
 Characterization of the Hilbert functions of finitely generated modules over an exterior algebra E given the degrees of the possible generators, i.e., of quotients of a fixed free E-module. Moreover, determining of upper bounds for the graded Betti numbers and the graded Bass numbers of such a class of modules via lexicographic submodules.
