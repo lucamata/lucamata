@@ -1,6 +1,7 @@
-I'm a postdoctoral researcher in the department MIFT at University of Messina.
+I'm a licensed Math teacher (upper secondary education) with a PhD in Mathematics and Computer Science (University of Catania, 2020).
+I had a postdoctoral research experience (University of Messina, 2020-2022) in Computational Algebra and Combinatorics.
 
-:email: lamata@unime.it
+:mail: luca.amata@scuola.istruzione.it
 
 :computer: http://mat521.unime.it/amata
 
