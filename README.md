@@ -14,4 +14,4 @@ Characterization, values as well as positions, of the extremal Betti numbers of 
 - ```Optimal systems of Lie subalgebras```<BR>
 Looking for efficient algorithms to compute optimal systems of finitely generated Lie subalgebras.
 - ```Computational algebra```<BR>
-Developing some packages in CoCoA and Macaulay2 that can be useful in the framework of commutative algebra and algebraic geometry. In particular for deepen the study of the above mentioned topics or approaching some open problems.
+Developing some packages in CoCoA and Macaulay2 that can be useful in the framework of commutative algebra and algebraic geometry. In particular, for deepen the study of the above mentioned topics or approaching some open problems.
